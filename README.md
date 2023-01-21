@@ -1,3 +1,3 @@
-#a tutorial of repository
+# a tutorial of repository
 
 started repository
